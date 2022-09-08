@@ -6,6 +6,7 @@
     <title>Etched Press</title>
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     <link rel="stylesheet" href="./theme/css/screen.css" type="text/css" />
     <link rel="stylesheet" href="./theme/css/pygments.css" type="text/css" />
     <link rel="stylesheet" href="./theme/css/print.css" type="text/css" media="print" />
@@ -22,6 +23,13 @@
                 <li><a href="./contact/">Contact</a></li>
                 <li><a href="./shop/">Shop</a></li>
                 <li><a href="./submit/">Submissions</a></li>
+                <li><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+				<input type="hidden" name="cmd" value="_s-xclick">
+				<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+				<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+				</form>
+			</li>
             </ul>
         </nav>
         <div class="header_box">
@@ -29,165 +37,231 @@
         </div>
     </header>
     <div id="wrapper">
-        <div id="content">            <h4 class="date">Apr 11, 2019</h4>
+        <div id="content">		        <h4 class="date">
+ 
+		        	Price: $49.99
+<p align="center">
+<div class="content">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="E5WWHKHVGK5BJ">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="paypal-button" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></h4>
 
             <article class="post">
                 <h2 class="title">
-                    <a href="./blog/newest-chapbook-haram.html" rel="bookmark" title="Permanent Link to &quot;Newest Chapbook: Haram&quot;">Newest Chapbook: Haram</a>
+                    <a href="./shop/chapbook-bundle.html" rel="bookmark" title="Permanent Link to &quot;Etched Press Chapbook Bundle&quot;">Etched Press Chapbook Bundle</a>
                 </h2>
 
                 
                 
-
-                <!-- wp:image {"id":603,"align":"left","width":307,"height":500} -->
-
-<p><img alt="Haram Cover" class="wp-image-603" height="500" src="http://etchedpress.com/wp-content/uploads/2018/12/Haram-Cover_online_small.png" width="307"></p>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-
-<p>In his debut chapbook, Antony Fangary brings unique and examining poems about identity through the lens of family history, religion, and discrimination. At once Coptic Christian and heretic, at once American and Egyptian, Fangary captures scenes in wide-angle and a deep depth-of-field. He is able to write tender lines that lacerate in an original voice. In<em> Haram</em>, you’ll learn about the “two white boys who sold everything from coke to pitbulls / good guys to know when you’re fifteen and alone,” while being reminded to “love the fear [God] gives you / and be thankful for it.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<p>Read “Bakhour” from <em>Haram</em> and other poems at <a href="http://anmly.org/ap26/egyptian-writers/antony-fangary.html">Anomaly</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<p>Read two other poems from the collection at <a href="http://www.mantrareview.com/spring2018/fangary.php">Mantra Review</a>&amp; <a href="http://www.lefthooks.net/2017/12/03/ya-kharabi-poem-antony-fangary/">Left Hooks</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<p>On sale in the <a href="http://etchedpress.com/product/haram-antony-fangary/">online store</a> and Amazon now! Stay tuned for information on readings and other events.  </p>
-<!-- /wp:paragraph -->
+				<img src="/static/images/chapbook-bundle.png" />
+                <p>Recieve a bundle of 5 chapbooks for the price of 4!</p>
+<p>You'll receive a bundle of chapbooks from 5 of the following:</p>
+<ul>
+<li>This Frayed Universe by Sarah Brashear</li>
+<li>Singing is My Favorite Part by Susan Elliott Brown</li>
+<li>Before OnStar by Sarah Carson</li>
+<li>Bright Burning Fuse by Melanie Faith</li>
+<li>Haram by Antony Fangary</li>
+<li>Apart from Concrete Existence by Josef Krebs</li>
+<li>Flotsam by Catherine Kyle</li>
+<li>Poems in Which I am Chopped up by Zack Rearick</li>
+<li>The Girl with the Green Violin by Kirby Wright</li>
+</ul>
+<p><em>Let us know if there are 1-2 books that you'd specifically like</em></p>
                 <div class="clear"></div>
 
                 <div class="info">
-                    <a href="./blog/newest-chapbook-haram.html">posted at 18:08</a>
-                    &nbsp;&middot;&nbsp;<a href="./blog/category/blog-news.html" rel="tag">Blog, News</a>
+                    &nbsp;&middot;&nbsp;<a href="./shop/category/bundles.html" rel="tag">Bundles</a>
                 </div>
-            </article>            <h4 class="date">Nov 03, 2017</h4>
+            </article>		        <h4 class="date">
+ 
+		        	Price: $11.99
+<p align="center">
+<div class="content">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="AR37E7CTZBKNG">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="paypal-button" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></h4>
 
             <article class="post">
                 <h2 class="title">
-                    <a href="./blog/coming-soon.html" rel="bookmark" title="Permanent Link to &quot;New Chapbooks and Acceptances Going Out Soon&quot;">New Chapbooks and Acceptances Going Out Soon</a>
+                    <a href="./shop/haram-antony-fangary.html" rel="bookmark" title="Permanent Link to &quot;Haram by Antony Fangary&quot;">Haram by Antony Fangary</a>
                 </h2>
 
                 
                 
-
-                <p>Update: acceptances going out soon.</p>
-<p>New chapbooks and first full-length collection coming out in 2018.</p>
+				<img src="/static/images/haram-cover.png" />
+                <p><em>Haram</em> by Antony Fangary is a chapbook-length collection of poems &amp; prayers.</p>
+<p>ISBN: 978-1-93584-715-1</p>
+<hr>
+<p><em>“Through even psychic journeys home, Fangary quarries the oaths we have grown numb to. Hiding from no one, here is a wanderer who has written poems on the film layer of his eyes. In the war and peace of imperialist myth, poems written on behalf of we who don’t exist. And gentle paper for the prayers of our grandmothers’ tongues.”</em></p>
+<p><em>-Tongo Eisen-Martin, author of the American Book Award winning</em></p>
+<p><em>“Antony Fangary has a unique and harrowing American story to tell. His masterstroke as author was to alternate Coptic prayers with personal revelation: “my father was proud of my skin when I was born / my mother says he showed me to everyone in the hospital / a brown man with a son white as an ostrich egg / the American dream //  Lord, look with / Merciful eyes / At my weakness / At my disgrace.” This book is the perfect example of the literature we should be reading, to open our eyes to the world and thereby to know ourselves.”</em></p>
+<p><em>-Paul Hoover, editor of Postmodern American Poetry: A Norton Anthology</em></p>
+<hr>
+<p><strong>Antony Fangary</strong> holds an MFA from San Francisco State University and is a recipient of the Ina Coolbrith Poetry Prize. You can also find his recent work in <em>Waccamaw, The Bookends Review, Anomaly, Welter</em>, and more. He is curator of the <a href="https://www.tenderlovin.org/"><em>Tenderlovin’ in the TL</em></a> reading series. The series also serves as a community outreach program that provides charity for displaced individuals in the Tenderloin neighborhood of San Francisco.</p>
+<p><a href="../wp-content/uploads/2018/12/Author-Photo-150x150.jpg"><img alt="Antony-Fangary-Author-Photo" class="size-thumbnail" height="150" src="../wp-content/uploads/2018/12/Author-Photo-150x150.jpg" width="150"></a>
+<center>Antony Fangary</center></p>
                 <div class="clear"></div>
 
                 <div class="info">
-                    <a href="./blog/coming-soon.html">posted at 21:26</a>
-                    &nbsp;&middot;&nbsp;<a href="./blog/category/blog-news.html" rel="tag">Blog, News</a>
+                    &nbsp;&middot;&nbsp;<a href="./shop/category/chapbooks.html" rel="tag">Chapbooks</a>
                 </div>
-            </article>            <h4 class="date">Jan 10, 2016</h4>
+            </article>		        <h4 class="date">
+ 
+		        	Price: $11.99
+<p align="center">
+<div class="content">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="QDW6TA57DTWZU">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="paypal-button" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></h4>
 
             <article class="post">
                 <h2 class="title">
-                    <a href="./blog/winter-updates.html" rel="bookmark" title="Permanent Link to &quot;Winter Updates&quot;">Winter Updates</a>
+                    <a href="./shop/josef-krebs-concrete.html" rel="bookmark" title="Permanent Link to &quot;Apart from Concrete Existence by Josef Krebs&quot;">Apart from Concrete Existence by Josef Krebs</a>
                 </h2>
 
                 
                 
-
-                <p>Hi All,</p>
-<p>Thank you for supporting Etched Press. It's now 2016, so here are a few winter updates. The new year has brought many exciting changes, but one thing that we'll maintain is the press' dedication to publishing "writing that remains." The press is relocating (along with its managing editor) to San Francisco. This has pushed a few things behind but sped a few others up. One of the things it has sped up is the transition from chapbooks being published as handmade and saddle-stitched to printed elsewhere as perfect bound books. All of our new titles will be perfect bound books, and we're working on converting all of the old titles as well. I've gone over a few proof copies. What I've seen looks and feels beautiful.</p>
-<p>One of the things that was slowed down was the Etched Press Poetry Series contest. There is a batch of finalists printed in a manila folder waiting to be re-read. This folder will be re-opened soon and the goal is for the winner to be notified by the end of January. Along with that, will be a wave of  acceptances and rejections sent out from submittable. There are many an "in-progress" submission in our inbox. Most of them have already been rated, but not all of them have comments and we're sending a few brief comments to everyone who remains even if we must decline. As part of the winter updates, we project that we'll be able to publish 6-10 titles this year. At least one of those will be a full-length collection--it's a New Year's resolution of ours. That full-length collection will be fantastic, so be prepared.</p>
-<p>More good news: <em><a href="http://etchedpress.com/product/sarah-brashear-frayed/">This Frayed Universe</a> </em>by Sarah Brashear and <em><a href="http://etchedpress.com/product/josef-krebs-concrete/">Apart from Concrete Existence</a> </em>by Josef Krebs are currently available for pre-order in the <a href="http://etchedpress.com/shop/">shop</a>. Etched Press is proud to bring you the work of two more wonderful poets. Expect a post soon with more details and sample poems. Also, there are two more chapbooks coming in March. Hope all is well and everyone's new year has had a wonderful start.</p>
-<p>Take Care,</p>
-<p>Kevin Dublin</p>
-<p>Etched Press Editor</p>
+				<img src="/static/images/concrete-cover.png" />
+                <p><em>Apart from Concrete Existence</em> by Josef Krebs is a chapbook-length collection of poems.</p>
+<p>ISBN: 978-1935847-13-7</p>
+<hr>
+<p>Josef Krebs’ poetry appears in <em>Agenda, Bicycle Review, Calliope, Mouse Tales Press, The Corner Club Press, The FictionWeek Literary Review</em>, and <em>Burningword Literary Journal</em>. His fiction has been published by blazeVOX and <em>Apart from Concrete Existence </em>is his first chapbook. Krebs is the author of three novels, five screenplays, and another book of poetry. He is also a filmmaker who has had films screened at the Santa Cruz and Cannes film festivals. He lives and works in New York as a freelance writer for Sound &amp; Vision magazine.</p>
+<p><a href="../wp-content/uploads/2016/01/Josef.jpg"><img alt="josef-krebs" class="size-thumbnail" height="150" src="../wp-content/uploads/2016/01/Josef-150x150.jpg" width="150"></a>
+<center>Josef Krebs</center></p>
                 <div class="clear"></div>
 
                 <div class="info">
-                    <a href="./blog/winter-updates.html">posted at 09:30</a>
-                    &nbsp;&middot;&nbsp;<a href="./blog/category/blog.html" rel="tag">Blog</a>
-                    &nbsp;&middot;
-                    &nbsp;<a href="./blog/tag/updates.html" class="tags">updates</a>
+                    &nbsp;&middot;&nbsp;<a href="./shop/category/chapbooks.html" rel="tag">Chapbooks</a>
                 </div>
-            </article>            <h4 class="date">Nov 09, 2015</h4>
+            </article>		        <h4 class="date">
+ 
+		        	Price: $11.99
+<p align="center">
+<div class="content">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="CY9PDCYJR5PC8">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="paypal-button" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></h4>
 
             <article class="post">
                 <h2 class="title">
-                    <a href="./blog/archive-wright.html" rel="bookmark" title="Permanent Link to &quot;Etched Press Poet Joins Archive&quot;">Etched Press Poet Joins Archive</a>
+                    <a href="./shop/sarah-brashear-frayed.html" rel="bookmark" title="Permanent Link to &quot;This Frayed Universe by Sarah Brashear&quot;">This Frayed Universe by Sarah Brashear</a>
                 </h2>
 
                 
                 
-
-                <p>Kirby Wright's <a href="http://etchedpress.com/product/kirby-wright-green/">The Girl with the Green Violin</a> is now included as a part of the special collection at the University of California San Diego's <a href="http://roger.ucsd.edu/record=b9068451~S9">Archive for New Poetry</a>). This is the first Etched Press title introduced to the archive.</p>
-<p>The Archive for New Poetry is a comprehensive research collection of American poetry and poetics reflecting and documenting alternative approaches to writing in the English language that have emerged since 1945. Although the Archive includes mainstream and academic poets, particularly those whose works are antecedent to post-war American experimental writing, most of the collection focuses on the "New American" poets: the Black Mountain poets, the Objectivist movement, the San Francisco Renaissance, the New York School, and the language writers.</p>
-<p>The Archive was established in 1968 when Roy Harvey Pearce, professor of literature at UC San Diego, donated important first editions of post-war American poets to the UC San Diego Library. The collection now numbers over 35,000 volumes, 1,800 serial titles, over 700 poetry broadsides, extensive manuscript holdings, and over 1,500 audio recordings, all of which support intense research use by students, scholars and writers internationally.</p>
-<p><a href="http://etchedpress.com/wp-content/uploads/2015/10/Cover-Amzn.jpg"><img alt="girl-archive" class="aligncenter wp-image-299 size-medium" height="300" src="http://etchedpress.com/wp-content/uploads/2015/10/Cover-Amzn-214x300.jpg" width="214"></a></p>
-<p>Etched Press is proud to be a part of such a important collection. Congratulations to Kirby Wright! Wright was born and raised in Honolulu, Hawaii. He is a graduate of Punahou School in Honolulu and the University of California at San Diego. He received his MFA in Creative Writing from San Francisco State University. Wright has been nominated for the Pushcart Prize and is a past recipient of the Ann Fields Poetry Prize, the Academy of American Poets Award, the Browning Society Award for Dramatic Monologue, and Arts Council Silicon Valley Fellowships in Poetry and The Novel. Wright is also the author of the companion novels <em>Punahou Blues</em> and <em>Moloka’i Nui Ahina</em>, both set in Hawaii. His third novel <em>The End, My Friend</em> is currently being adapted into a film. More information on the archive can be found <a href="http://libraries.ucsd.edu/collections/sca/collections/archive-for-new-poetry.html">here</a>.</p>
-<p>A link to the catalog record in UCSD's <a href="http://roger.ucsd.edu/record=b9068451~S9">special collections</a>).</p>
+				<img src="/static/images/frayed-cover.jpg" />
+                <p><em>This Frayed Universe</em> is a chapbook of poems by Sarah Brashear. It describes our heavy and beautiful world and the crisis of the ordinary human coping with the everyday effects of life. Brashear’s rich language shows that not only is being a person a blessing, but at times, an unexpected disaster. Through her strong images, she is able to illustrate what many other authors have also shown—that within the unordinary is the ordinary, and that perhaps this insanity we diagnose in others is actually our sanity.</p>
+<p>ISBN: 978-1935847-11-3</p>
+<hr>
+<p>Sarah Brashear lives in Pennsylvania and has an MFA in Creative Writing from Chatham University. Her first full-length book of poetry, <em>On Beacon Street</em>, was published by <a href="http://www.amazon.com/Beacon-Street-Sarah-Brashear/dp/1682640035/">Cawing Crow Press</a>. She is currently a writing instructor at Lebanon Valley College. When she isn’t writing or teaching, she enjoys playing tennis and going to concerts.</p>
+<p><a href="../wp-content/uploads/2016/01/authphoto.jpg"><img alt="Sarah-Brashear" class="size-thumbnail" height="150" src="../wp-content/uploads/2016/01/authphoto-150x150.jpg" width="150"></a>
+<center>Sarah Brashear</center></p>
                 <div class="clear"></div>
 
                 <div class="info">
-                    <a href="./blog/archive-wright.html">posted at 14:30</a>
-                    &nbsp;&middot;&nbsp;<a href="./blog/category/blog-news.html" rel="tag">Blog, News</a>
-                    &nbsp;&middot;
-                    &nbsp;<a href="./blog/tag/archive.html" class="tags">archive</a>
-                    &nbsp;<a href="./blog/tag/kirby-wright.html" class="tags">kirby wright</a>
-                    &nbsp;<a href="./blog/tag/library.html" class="tags">library</a>
+                    &nbsp;&middot;&nbsp;<a href="./shop/category/chapbook.html" rel="tag">Chapbook</a>
                 </div>
-            </article>            <h4 class="date">Oct 12, 2015</h4>
+            </article>		        <h4 class="date">
+ 
+		        	Price: $11.99
+<p align="center">
+<div class="content">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="CBNVRHT2ZX968">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="paypal-button" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</p></h4>
 
             <article class="post">
                 <h2 class="title">
-                    <a href="./blog/two-new-chapbooks.html" rel="bookmark" title="Permanent Link to &quot;Two New Chapbooks Available&quot;">Two New Chapbooks Available</a>
+                    <a href="./shop/kirby-wright-green.html" rel="bookmark" title="Permanent Link to &quot;The Girl with the Green Violin by Kirby Wright&quot;">The Girl with the Green Violin by Kirby Wright</a>
                 </h2>
 
                 
                 
-
-                <p>Etched Press would like to announce the publication of two new chapbooks: <em>The Singing is My Favorite Part </em>by Susan Elliott Brown and <em>The Girl with the Green Violin </em>by Kirby Wright. They are the fifth and sixth titles in the Etched Press Poetry Series, respectively. You can read about the two new chapbooks in the <a href="http://etchedpress.com/shop/">Etched Press Shop</a> or on Amazon if you have a Kindle (<em><a href="http://www.amazon.com/gp/product/B0161CE6O6">The Singing</a> / <a href="http://www.amazon.com/Green-Violin-Etched-Press-Poetry-ebook/dp/B0161QLBZE">The Girl</a></em>).</p>
-<p>Read a poem from the first of the two new chapbooks, <em>The Singing is My Favorite Part:</em><br>
-<strong>Eutrophication </strong>| Susan Elliott Brown</p>
-<p>The dock rots beneath your feet,<br>
-fish-stale water green<br>
-around its posts. Mosquitoes<br>
-land on the oily film that thickens<br>
-the surface, dotting<br>
-its topography with sparkling<br>
-holes, like dust particles glowing<br>
-in a light beam through a basement<br>
-window. Toads breed near the teeming<br>
-banks. The air smells metallic,<br>
-the way your hands smell after<br>
-you ride the carousel at the mall,<br>
-gripping the brass pole<br>
-that impales your horse.</p>
-<p>And a poem from <em>The Girl with the Green Violin</em>:<br>
-<strong>Carrots on Snow</strong> | Kirby Wright</p>
-<p>A flame has been extinguished in mother, not the fire of life but that spark wanting independence. She displays a certain resignation, one that causes her face to droop as if melting. Her body sags in the chair. The dining table’s cluttered with magazines, keys, unopened credit card statements and utility bills, newspapers, and expired coupons from Whole Foods. She nods solemnly when I suggest she consider a live-in to help prepare meals and keep things tidy. “You could be like roommates,” I smile, “and, best of all, she could drive you everywhere.” “Driving Miss Lonely,” she smirks, getting up. She weaves her way through a gauntlet of boxes marked for recycling, crates of junk mail, and plastic bins filled with ornaments. She shuffles past the Christmas tree and falls into the loveseat beside the window. She studies the rabbits. They’re gnawing the carrots she stacked at dawn on the snow.</p>
+				<img src="/static/images/violin-cover.jpg" />
+                <p><em>The Girl with the Green Violin</em> is a chapbook of poems.</p>
+<p>ISBN: 978-1935847-07-6</p>
+<hr>
+<p>Kirby Wright was born and raised in Honolulu, Hawaii. He is a graduate of Punahou School in Honolulu and the University of California at San Diego. He received his MFA in Creative Writing from San Francisco State University. Wright has been nominated for five Pushcart Prizes and three Best of the Webs. Wright is a past recipient of the Ann Fields Poetry Prize, the Academy of American Poets Award, the Browning Society Award for Dramatic Monologue, and Arts Council Silicon Valley Fellowships in Poetry and The Novel. Excluding <em>The Girl with the Green Violin,</em> He is the author of eight full-length collections including <em>Notes Above Water, Selected Poems</em> (Lemon Shark Press, 2014) and three other chapbooks. You can read more about Wright on his <a href="http://kibs33.wix.com/kirbywright">website</a>.</p>
+<p><a href="../wp-content/uploads/2015/10/wright.jpg"><img alt="Kirby-Wright" class="size-thumbnail" height="150" src="../wp-content/uploads/2015/10/wright-150x150.jpg" width="150"></a> 
+<center>Kirby Wright</center></p>
                 <div class="clear"></div>
 
                 <div class="info">
-                    <a href="./blog/two-new-chapbooks.html">posted at 18:00</a>
-                    &nbsp;&middot;&nbsp;<a href="./blog/category/blog.html" rel="tag">Blog</a>
-                    &nbsp;&middot;
-                    &nbsp;<a href="./blog/tag/chapbooks.html" class="tags">chapbooks</a>
-                    &nbsp;<a href="./blog/tag/kirby-wright.html" class="tags">kirby wright</a>
-                    &nbsp;<a href="./blog/tag/new-title.html" class="tags">new title</a>
-                    &nbsp;<a href="./blog/tag/susan-elliott-brown.html" class="tags">susan elliott brown</a>
+                    &nbsp;&middot;&nbsp;<a href="./shop/category/chapbooks.html" rel="tag">Chapbooks</a>
                 </div>
             </article>
 
                 <div class="clear"></div>
                 <div class="pages">
 
-                    <a href="./page/2" class="next_page">Next&nbsp;&rarr;</a>
-                    <span>Page 1 of 4</span>
+                    <a href="./index2.html" class="next_page">Next&nbsp;&rarr;</a>
+                    <span>Page 1 of 2</span>
                 </div>
-
+            
+            
+			<hr />
+			<center>
+			<form action="https://www.paypal.com/donate" method="post" target="_top">
+			<input type="hidden" name="hosted_button_id" value="8R3DJB56DZ66J" />
+			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+			</form></center>
         </div>
         <div class="clear"></div>
     </div>

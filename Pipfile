@@ -11,6 +11,7 @@ lxml = "*"
 bulrush = "*"
 webassets = "*"
 pelican-webassets = "*"
+markdown = "*"
 
 [dev-packages]
 

@@ -1,6 +1,6 @@
 Title: Shop
-Date: 2015-04-01 19:14
-Author:  
+Template: shop
+Author:
 Slug: shop
 Status: published
 

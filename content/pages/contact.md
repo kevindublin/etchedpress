@@ -4,12 +4,15 @@ Author: Editor
 Slug: contact
 Status: published
 
-If you have any questions at all feel free to contact us by e-mail at inquiry\@etchedpress.com and your questions or comments will likely get a response in a few days. Please allow more time for lengthier or more detailed questions. Be sure to visit the submissions page if your question concerns your manuscript.
+If you have any questions at all feel free to contact us by e-mail at inquiry [-at-] etchedpress.com, and we'll get to your questions as soon as possible. Please allow more time for lengthier or more detailed questions. Be sure to visit the submissions page if your question concerns a manuscript.
 
- 
-
-\[contact-form to='etchedpress\@gmail.com' subject='Etched Press Contact Form'\]\[contact-field label='Name' type='name' required='1'/\]\[contact-field label='Email' type='email' required='1'/\]\[contact-field label='Website' type='url'/\]\[contact-field label='How Did You Hear About Etched Press?' type='select' options='Never,Poets %26amp; Writers,New Pages,Poet%26\#039;s Market,Duotrope,Social Media,Dustbooks,Author or Reader,Google Search'/\]\[contact-field label='Questions or Comments' type='textarea' required='1'/\]\[/contact-form\]
-
- 
-
- 
+<form accept-charset="UTF-8" action="https://formsubmit.co/fec731b0aeef2ffe265224811b5f659c" method="POST">
+  <input type="text" name="name" class="input details" placeholder="Your Name" style="margin-top:10px"/>
+  <input type="email" name="email" class="input details" placeholder="Your Email" style="margin-top:10px"/>
+  <input type="hidden" name="_subject" value="New Message About Etched Press">
+  <textarea rows="10" name="message" class="textarea message" placeholder="Your Message" style="margin-top:10px"></textarea>
+  <input type="text" name="_honey" style="display: none;">
+  <br>
+  <button type="submit" id="submit-form" class="button is-medium" 
+  		  style="margin-top:10px">Send</button>
+</form>
