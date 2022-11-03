@@ -1,6 +1,7 @@
 Title: The Girl with the Green Violin by Kirby Wright
-Book: The Girl with the Green Violin
-Writer: Kirby Wright
+Product: The Girl with the Green Violin
+Creator: Kirby Wright
+Summary: The Girl with the Green Violin is a chapbook of poems 
 Thumbnail: /static/images/violin-cover.jpg
 Category: Chapbooks
 Price: 11.99
@@ -20,4 +21,5 @@ Kirby Wright was born and raised in Honolulu, Hawaii. He is a graduate of Punaho
 
 [![Kirby-Wright](../wp-content/uploads/2015/10/wright-150x150.jpg){.size-thumbnail width="150" height="150"}](../wp-content/uploads/2015/10/wright.jpg) 
 <center>Kirby Wright</center>
+
 

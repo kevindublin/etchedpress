@@ -1,6 +1,6 @@
 Title: Before OnStar by Sarah Carson
-Book: Before OnStar
-Writer: Sarah Carson
+Product: Before OnStar
+Creator: Sarah Carson
 Thumbnail: /static/images/onstar-cover.jpg
 Category: Chapbooks
 Price: 11.99

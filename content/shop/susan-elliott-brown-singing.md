@@ -1,4 +1,4 @@
-Title: Singing is My Favorite Part by Susan Elliott Brown
+Title: Singing is My Favorite by Susan Elliott Brown
 Date: 2015-10-02 16:14
 Author: Editor
 Book: Singing is My Favorite Part

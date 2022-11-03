@@ -1,6 +1,6 @@
 Title: Flotsam by Catherine Kyle
-Book: Flotsam
-Writer: Catherine Kyle
+Product: Flotsam
+Creator: Catherine Kyle
 Thumbnail: /static/images/flotsam-cover.png
 Category: Chapbooks
 Price: 11.99

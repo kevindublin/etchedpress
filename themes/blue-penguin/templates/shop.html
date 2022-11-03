@@ -3,39 +3,29 @@
 {% block content %}
 
 <div class="shop">
-    <aside id="featured" class="body" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+	<div class="tile is-ancestor" style="flex-wrap: wrap; justify-content: space-around;">
     {% for article in articles %}
-
-	<div class="columns">
-		<div class="column has-text-centered">
-			<div class="card" style="width: 400px;">
-				<div class="card-image" style="">
-					<div style="max-width: 100%">
-					<figure class="image">
-						<a href="{{ SITEURL }}/{{ article.url }}"><img src="{{ article.thumbnail }}" class="bw" id="ima{{ loop.index }}" onmouseover="greyoff(this.id)" onmouseleave="greyon(this.id)" border="0" title="{{article.title}}" alt="{{ article.title }}" style="height: 300px; object-fit: scale-down;" /></a>
-					</figure>
-					</div>
-				</div>
-				<div class="card-content">
-					 <p style="font-size:1rem; font-style:italic;">{{ article.title }}</p>
-					 <p>${{ article.price}}</p>
-					<div class="content">
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="{{ article.paypal }}">
-							<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-						</form>
-
-					</div>
-				</div>
-			</div>
+    <a href="{{ SITEURL }}/{{ article.url }}">
+		<div class="tile  is-vertical is-parent" style="max-width: 200px; word-wrap: break-word;">
+		<div class="tile is-child">
+			<figure class="image is-2by3">
+				<img src="{{ article.thumbnail }}" alt="{{article.title}}" style="box-shadow: 7px 7px 7px grey;"/>
+			</figure>
 		</div>
-		<div class="column">
+		<div class="is-child has-text-centered">
+			<p class="title is-6">{{ article.title }}</p>
+			<p class="has-text-centered">${{ article.price }}</p>
+			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+				<input type="hidden" name="cmd" value="_s-xclick">
+				<input type="hidden" name="hosted_button_id" value="{{ article.paypal }}">
+				<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
 		</div>
 	</div>
+	</a>
     {% endfor %}
-    </aside><!-- /#featured -->
-    
+	</div>
+</div>
 {% endblock content %}
 

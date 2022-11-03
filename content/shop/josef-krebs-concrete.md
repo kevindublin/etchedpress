@@ -1,6 +1,6 @@
 Title: Apart from Concrete Existence by Josef Krebs
-Book: Apart from Concrete Existence
-Writer: Josef Krebs
+Product: Apart from Concrete Existence
+Creator: Josef Krebs
 Thumbnail: /static/images/concrete-cover.png
 Category: Chapbooks
 Price: 11.99

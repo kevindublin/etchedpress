@@ -1,6 +1,7 @@
 Title: This Frayed Universe by Sarah Brashear
 Product: This Frayed Universe
 Creator: Sarah Brashear
+Summary: This Frayed Universe is a chapbook of poems by Sarah Brashear on the human condition of coping with our beautiful and heavy world.
 Thumbnail: /static/images/frayed-cover.jpg
 Category: Chapbook
 Price: 11.99

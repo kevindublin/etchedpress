@@ -1,4 +1,4 @@
-Title: Poems in Which I am Chopped up by Zack Rearick
+Title: Poems in Which I Am by Zack Rearick
 Book: Poems in Which I am Chopped up
 Writer: Zack Rearick
 Thumbnail: /static/images/chopped-cover.jpg

@@ -1,6 +1,6 @@
 Title: Bright Burning Fuse by Melanie Faith
-Book: Bright Burning Fuse
-Writer: Melanie Faith
+Product: Bright Burning Fuse
+Creator: Melanie Faith
 Thumbnail: /static/images/fuse-cover.png
 Category: Chapbooks
 Price: 11.99
