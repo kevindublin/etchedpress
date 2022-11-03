@@ -11,7 +11,8 @@ GOOGLE_SITE_VERIFICATION = ''
 PATH = 'content'
 # Static Paths
 STATIC_PATHS = ['static', 'static/images', 'static/css', 'wp-content', 'wp-content/uploads', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 
+						'extra/favicon.ico': {'path': 'favicon.ico'}}
 
 
 # Theme Settings
