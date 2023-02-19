@@ -24,7 +24,7 @@ Also available [on Kindle](https://www.amazon.com/Singing-Favorite-Etched-Press-
 
 ---
 
-Susan Elliott Brown is a PhD student at the University of Southern Mississippi where she received the 2014 Joan Johnson Award in Poetry. *The Singing is My Favorite Part* is her debut chapbook. Her poems have appeared or are forthcoming in *The Best American Poetry* blog, Measure*: A Review of Formal Poetry, The Atticus Review, The Ampersand Review*, and *Alehouse*, among others. You can follow her on Twitter [@selliottbrown](http://twitter.com/selliottbrown).
+**Susan Elliott Brown** is a PhD student at the University of Southern Mississippi where she received the 2014 Joan Johnson Award in Poetry. *The Singing is My Favorite Part* is her debut chapbook. Her poems have appeared or are forthcoming in *The Best American Poetry* blog, Measure*: A Review of Formal Poetry, The Atticus Review, The Ampersand Review*, and *Alehouse*, among others. You can follow her on Twitter [@selliottbrown](http://twitter.com/selliottbrown).
 
 [![susan-elliott-brown](../wp-content/uploads/2015/10/susan_e_brown-150x150.png){.size-thumbnail width="150" height="150"}](../wp-content/uploads/2015/10/susan_e_brown.png) 
 <center>Susan Elliott Brown</center>

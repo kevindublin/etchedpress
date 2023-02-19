@@ -28,7 +28,7 @@ ISBN: 978-1-93584-715-1
 
 ---
 
-**Antony Fangary** holds an MFA from San Francisco State University and is a recipient of the Ina Coolbrith Poetry Prize. You can also find his recent work in *Waccamaw, The Bookends Review, Anomaly, Welter*, and more. He is curator of the [*Tenderlovin’ in the TL*](https://www.tenderlovin.org/) reading series. The series also serves as a community outreach program that provides charity for displaced individuals in the Tenderloin neighborhood of San Francisco.
+**Antony Fangary** holds an MFA from San Francisco State University and is a recipient of the Ina Coolbrith Poetry Prize. You can also find his recent work in *Waccamaw, The Bookends Review, Anomaly, Welter*, and more. He is curator of the *Tenderlovin’ in the TL* reading series. The series also serves as a community outreach program that provides charity for displaced individuals in the Tenderloin neighborhood of San Francisco. You can learn more about Antony at his website: [www.antonyfangary.com](http://www.antonyfangary.com/).
 
 [![Antony-Fangary-Author-Photo](../wp-content/uploads/2018/12/Author-Photo-150x150.jpg){.size-thumbnail width="150" height="150"}](../wp-content/uploads/2018/12/Author-Photo-150x150.jpg)
 <center>Antony Fangary</center>

@@ -18,7 +18,7 @@ ISBN: 978-1935847-11-3
 
 ---
 
-Sarah Brashear lives in Pennsylvania and has an MFA in Creative Writing from Chatham University. Her first full-length book of poetry, *On Beacon Street*, was published by [Cawing Crow Press](http://www.amazon.com/Beacon-Street-Sarah-Brashear/dp/1682640035/). She is currently a writing instructor at Lebanon Valley College. When she isn’t writing or teaching, she enjoys playing tennis and going to concerts.
+**Sarah Brashear** lives in Pennsylvania and has an MFA in Creative Writing from Chatham University. Her first full-length book of poetry, *On Beacon Street*, was published by [Cawing Crow Press](http://www.amazon.com/Beacon-Street-Sarah-Brashear/dp/1682640035/). She is currently a writing instructor at Lebanon Valley College. When she isn’t writing or teaching, she enjoys playing tennis and going to concerts.
 
 [![Sarah-Brashear](../wp-content/uploads/2016/01/authphoto-150x150.jpg){.size-thumbnail width="150" height="150"}](../wp-content/uploads/2016/01/authphoto.jpg)
 <center>Sarah Brashear</center>

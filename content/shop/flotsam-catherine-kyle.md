@@ -24,7 +24,7 @@ ISBN: 978-1935847-05-2
 
 ---
 
-Catherine Kyle is a Ph.D. candidate in English at Western Michigan University, where she studies representations of artists’ coming-of-age stories in contemporary graphic novels. Her hybrid-genre chapbook *Feral Domesticity*, which contains poetry, fiction, and paintings, was published by [Robocup Press](https://www.etsy.com/listing/186798579/feral-domesticity-by-catherine-kyle?ref=listing-shop-header-0) in 2014. You can read more about Catherine on her website: [www.catherinebaileykyle.com](http://www.catherinebaileykyle.com).
+**Catherine Kyle** is the author of *Fulgurite* (Cornerstone Press, forthcoming), *Shelter in Place* (Spuyten Duyvil, 2019), and other poetry collections. Her writing has appeared in *Bellingham Review*, *Colorado Review*, *Mid-American Review*, and other journals. She was the winner of the 2019-2020 COG Poetry Award, a finalist for the 2021 Mississippi Review Prize in poetry, and a finalist for the 2021 Pinch Literary Awards. She is an assistant professor at DigiPen Institute of Technology, where she teaches creative writing. Her hybrid-genre chapbook *Feral Domesticity*, which contains poetry, fiction, and paintings, was published by [Robocup Press](https://www.etsy.com/listing/186798579/feral-domesticity-by-catherine-kyle?ref=listing-shop-header-0). You can read more about Catherine on her website: [www.catherinebaileykyle.com](http://www.catherinebaileykyle.com).
 
 [![catherine-kyle](../wp-content/uploads/2015/02/catherine_kyle.jpg){.size-full width="135" height="135"}](../wp-content/uploads/2015/02/catherine_kyle.jpg)
 <center>Catherine Kyle</center>

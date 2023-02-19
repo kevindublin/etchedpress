@@ -28,7 +28,7 @@ ISBN: 978-1-935847-00-7
 
 ---
 
-Sarah Carson was born and raised in Michigan but now lives in Chicago where she works at a church. Her poetry and short stories have appeared in *Cream City Review, Columbia Poetry Review, Diagram, Guernica*, and the *Nashville Review*, among others. She is also the author of three chapbooks and the full-length collections: *Buick City* ([Mayapple Press](http://mayapplepress.com/sarah-carson-buick-city/)) and *[Poems in which You Die](http://batcatpress.com/publications/piwyd/)* (Bat Cat Press). She blogs at [sarahamycarson.com](http://sarahamycarson.wordpress.com).
+[Sarah Carson](https://www.stuffsarahwrote.com/) was born and raised in Michigan but now lives in Chicago where she works at a church. Her poetry and short stories have appeared in *Cream City Review, Columbia Poetry Review, Diagram, Guernica*, and the *Nashville Review*, among others. She is also the author of three chapbooks and the full-length collections: *Buick City* ([Mayapple Press](http://mayapplepress.com/sarah-carson-buick-city/)) and *[Poems in which You Die](http://batcatpress.com/publications/piwyd/)* (Bat Cat Press). She blogs at [sarahamycarson.com](http://sarahamycarson.wordpress.com).
 
 [![before-onstar-by-sarah-carson](../wp-content/uploads/2010/05/Sarah-Carson-150x150.jpg){.size-thumbnail width="150" height="150"}](../wp-content/uploads/2010/05/Sarah-Carson.jpg)
 <center>Sarah Carson</center>
