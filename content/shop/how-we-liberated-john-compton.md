@@ -10,12 +10,15 @@ Slug: how-we-liberated-john-compton
 Paypal: KMFQAML3Q2CKJ
 Status: published
 
-**Now Available for Pre-order**<br/>
-**Ships in March** <br/>
+**Now Available**<br/>
 
-*how we liberated what secrets we modified* by John Compton is a chapbook-length collection of poems.
+*how we liberated what secrets we modified* by john compton is a chapbook-length collection of poems.
 
 ISBN: 978-1-93584-717-5
+
+---
+
+*how we liberated what secrets we modified* is a book of the body and of the mind. john compton writes in a loose, but raw style with poems that show “lust drips tenderly like a sadistic flower.” Across 17 poems, readers witness the force of an insatiable imagination meeting an immovable resolve. These poems make the page tremble like aftershocks of an earthquake. *how we liberated what secrets we modified* is erotic, filled with the remnants of desire and betrayal. This is poetry where even “the birds, keep  plague / pollinate the air. / each toxic breath / determines / a second-guessed inhale.” Be prepared for a journey through a beautiful world where "birds, devastated refugees, / scratch across the sky / longing to find a home."
 
 ---
 
@@ -33,7 +36,7 @@ ISBN: 978-1-93584-717-5
 
 ---
 
-[**john Compton**](https://www.facebook.com/poetjohncompton) (b. 1987) is a gay poet who lives in kentucky with his husband josh and their dogs and cats. He is the author of two full-length collections *trainride elsewhere* (Pressed Wafer/Rouge Wolf Press, 2016) and *the castration of a minor god* (Ghost City Press, 2022) as well as ten chapbooks, including *a child growing wild inside the mothering womb* (Ghost City Press, 2020), *i saw god cooking children / paint their bones* (Blood Pudding Press 2020), and the forthcoming *melancholy arcadia* (Small Harbor Press, May 2024) and *blacked out borderland from an exponential crisis* (Ethel Zine and Micro Press, Sep 2023). His pdf chapbook *the skies fell revelations* is free [when you purchase his full length poetry book from Ghost City Press](https://ghostcitypress.com/books/the-castration-of-a-minor-god). He has been nominated for three pushcart prizes and published in numerous magazines and anthologies.
+[**john compton**](https://www.facebook.com/poetjohncompton) (b. 1987) is a gay poet who lives in kentucky with his husband josh and their dogs and cats. He is the author of two full-length collections *trainride elsewhere* (Pressed Wafer, 2016) and *the castration of a minor god* (Ghost City Press, 2022) as well as ten chapbooks, including *a child growing wild inside the mothering womb* (Ghost City Press, 2020), *i saw god cooking children / paint their bones* (Blood Pudding Press 2020), and the forthcoming *melancholy arcadia* (Small Harbor Press, May 2024) and *blacked out borderland from an exponential crisis* (Ethel Zine and Micro Press, Sep 2023). His pdf chapbook *the skies fell revelations* is free [when you purchase his full length poetry book from Ghost City Press](https://ghostcitypress.com/books/the-castration-of-a-minor-god). He has been nominated for three pushcart prizes and published in numerous magazines and anthologies.
 
 <img src="/static/images/john-compton.jpg" alt="john compton author photo" style="height:150px; width:auto;" />
 <center>john compton</center>
