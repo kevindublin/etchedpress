@@ -12,8 +12,6 @@ bulrush = "*"
 webassets = "*"
 pelican-webassets = "*"
 markdown = "*"
+pelican = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.8"

@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://etchedpress.com/</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://etchedpress.com/tags.html</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://etchedpress.com/categories.html</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://etchedpress.com/authors.html</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://etchedpress.com/archives.html</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -54,7 +54,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://etchedpress.com/shop/</loc>
-<lastmod>2023-04-13T08:07:38-00:00</lastmod>
+<lastmod>2023-12-25T00:02:39-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,6 +62,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://etchedpress.com/submit/</loc>
 <lastmod>2009-05-31T00:09:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://etchedpress.com/shop/not-my-daughter-jessie-galloway.html</loc>
+<lastmod>2023-12-24T23:59:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -160,6 +167,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://etchedpress.com/shop/category/chapbooks.html</loc>
 <lastmod>2023-03-10T19:00:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://etchedpress.com/shop/category/full-length.html</loc>
+<lastmod>2023-12-24T23:59:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

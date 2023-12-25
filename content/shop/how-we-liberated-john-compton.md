@@ -18,7 +18,7 @@ ISBN: 978-1-93584-717-5
 
 ---
 
-*how we liberated what secrets we modified* is a book of the body and of the mind. john compton writes in a loose, but raw style with poems that show “lust drips tenderly like a sadistic flower.” Across 17 poems, readers witness the force of an insatiable imagination meeting an immovable resolve. These poems make the page tremble like aftershocks of an earthquake. *how we liberated what secrets we modified* is erotic, filled with the remnants of desire and betrayal. This is poetry where even “the birds, keep  plague / pollinate the air. / each toxic breath / determines / a second-guessed inhale.” Be prepared for a journey through a beautiful world where "birds, devastated refugees, / scratch across the sky / longing to find a home."
+*how we liberated what secrets we modified* is a book of the body and of the mind. john compton writes in a loose but raw style with poems that show “lust drips tenderly like a sadistic flower.” Across 17 poems, readers witness the force of an insatiable imagination meeting an immovable resolve. These poems make the page tremble like aftershocks of an earthquake. *how we liberated what secrets we modified* is erotic, filled with the remnants of desire and betrayal. This is poetry where even “the birds, keep  plague / pollinate the air. / each toxic breath / determines / a second-guessed inhale.” Be prepared for a journey through a beautiful world where "birds, devastated refugees, / scratch across the sky / longing to find a home."
 
 ---
 
