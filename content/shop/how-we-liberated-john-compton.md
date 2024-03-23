@@ -10,8 +10,6 @@ Slug: how-we-liberated-john-compton
 Paypal: KMFQAML3Q2CKJ
 Status: published
 
-**Now Available**<br/>
-
 *how we liberated what secrets we modified* by john compton is a chapbook-length collection of poems.
 
 ISBN: 978-1-93584-717-5

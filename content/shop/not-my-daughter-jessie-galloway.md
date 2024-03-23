@@ -10,9 +10,6 @@ Slug: not-my-daughter-jessie-galloway
 Paypal: ZPPE6K7D8AEYY
 Status: published
 
-**Available for Pre-Order**<br/>
-*Ships January 22, 2024*<br/>
-
 *not my daughter* by Jessie Scrimager Galloway is a full-length collection of poems.
 
 ISBN: 978-1-935847-21-2
@@ -54,4 +51,4 @@ Jessie is a poetic auteur of technical brilliance, singular personality, and dee
 **Jessie Scrimager Galloway** is an adopted, queer poet with mommy issues. She is a graduate of Pacific University’s MFA program and author of the chapbook *Liminal: A Life of Cleavage* (Lost Horse Press, 2006). She loves her wife’s fried chicken and enjoys riveting conversations with her best editor: Snacks, a wily, polydactyl, orange cat.
 
 <img src="/static/images/jessie-galloway.jpg" alt="Jessie Galloway author photo by Reina Vazquez" style="height:150px; width:auto;" />
-<center>Jessie Scrimage Galloway</center>
+<center>Jessie Scrimager Galloway</center>
